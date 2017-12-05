@@ -1,0 +1,46 @@
+[Asgore:questionable=false]
+<location:waterfall/end>
+<amount:1/end>
+
+<INTRO:
+Monster kid: Sans!!! Is Frisk alright!?
+Sans: Calm down kid. She's in good hands right now.
+Monster kid: Thank god...it's all my fault.
+Sans: How so?
+Monster kid: If I wasn't so hasty, I could've been there for her.
+Sans: Kid. Even if u were there, u couldn't have done much. It's not your fault she got hurt.
+/end>
+
+<Q1:
+- option 1: did he see anything
+- option 2: what they were doing
+/end>
+
+<Q1-1:
+Sans: Seen anything of it happen?
+Monster kid: I saw Frisk get attacked, but when I got down there...
+Sans: They were gone and Frisk was lying there.
+'Monster kid nodded'
+Sans: I guess u don't know who it was.
+Monster kid: No. He wasn't using any magic. The guy just kept beating her.
+/end>
+
+<Q1-2:
+Sans: What were you guys up to?
+Monster kid: We were going to ask Undyne is she could show us some cool stuff.
+Sans: And?
+Monster kid: She wasn't home, so I want looking for her near the waterfalls.
+Monster kid: Then I found Frisk...
+/end>
+
+<OUTRO:
+Sans: (He doesn't know anything... can't blame the kid)
+'He's still shaking'
+Sans: Look here kid, can u do something for me?
+Monster kid: Yes?
+Sans: I want u to go home and tell everybody to stay in town till this mess is sorted out.
+Sans: Can u do that for me? It would help out a lot.
+Monster kid: Ok!
+'He ran off in a hurry'
+Sans: (At least he's cheered up)
+/end>

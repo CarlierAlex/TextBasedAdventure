@@ -1,0 +1,4 @@
+'Jerk bumps into you'
+'Girl goes inside'
+(press enter to continue)
+/new

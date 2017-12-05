@@ -1,0 +1,54 @@
+[Flowey:questionable=true]
+<location:palace/end>
+<amount:2/end>
+
+<INTRO:
+Flowey: What do u want thrashbag?
+/end>
+
+<Q1:
+'You feel your blood boiling just at the sight of Flowey'
+Flowey: Are u gonna quit staring at me or actually do something?
+- option 1: pin to the wall
+- option 2: remain calm
+/end>
+
+<Q1-1:
+'U throw Flowey against the wall, holding him in place with BLUE MAGIC'
+Flowey: What's your problem comedian! Finally snapped I see!
+Sans: Tell me what you did, u rotten flower!!!
+'Asgore appears, holding you down with his trident'
+Asgore: Sans, calm down!
+'You stand up. The anger has toned down, but is not gone'
+Asgore: This isn't your usual self. Did something happen?
+/end>
+
+<Q1-2:
+'You keep your cool'
+Sans: Where were you this week?
+Flowey: Does it matter, you...
+'Flowey senses the rage building up inside of you'
+Flowey: I was here in the flower garden, as usual. Not like I got something to do.
+Asgore: Sans, is something the matter?
+/end>
+
+<Q2:
+Sans: Frisk was attacked...
+Asgore: Oh no. How serious is it?
+Sans: She is unconsious. Her body is all bruised up, as if Undyne went on a rampage.
+- option 1: ask Flowey
+- option 2: ask Asgore
+/end>
+
+<Q2-1:
+Flowey: What do u want thrashbag?
+/end>
+
+<Q2-2:
+Flowey: What do u want thrashbag?
+/end>
+
+<OUTRO:
+Asgore: I'm going to check up on Frisk.
+'Asgore left in a hurry'
+/end>

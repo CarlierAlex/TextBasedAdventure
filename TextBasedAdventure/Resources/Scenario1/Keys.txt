@@ -1,0 +1,10 @@
+{<:Flowey0.2.2>		[Asgore] 	</Asgore1.txt/end>}
+{<:Flowey0.2.1>		[Asgore]	</Asgore1.txt/end>}
+
+{<:Flowey0.2.2>		[Alphys] 	</Alphys1.txt/end>}
+{<:Flowey0.2.1>		[Alphys]	</Alphys1.txt/end>}
+
+{<:Gerson0.2.1>		[Papyrus]	</Papyrus1.txt/end>}
+{<:Gerson0.2.2>		[Papyrus]	</Papyrus1.txt/end>}
+
+{<:Papyrus1.1.1>	[Papyrus]	</Papyrus2.txt/end>}

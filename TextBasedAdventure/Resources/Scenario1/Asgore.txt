@@ -1,0 +1,7 @@
+[Asgore:questionable=false]
+<location:palace/end>
+<amount:1/end>
+
+<INTRO:
+Asgore: I'm sorry Sans, but these reports need to be looked at first. We can have a cup of tea later.
+/end>

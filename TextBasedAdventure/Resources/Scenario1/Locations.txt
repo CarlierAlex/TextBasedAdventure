@@ -1,0 +1,66 @@
+loc: palace
+nrOfItems: 1
+desc:
+[Sans: The garden is more colorfull then it used to be. 
+I guess it's because Flowey spends most of his time there. What a waste of time
+...
+I can see the barrier from here. Doesn't seem to different from last time...is it brighter than last time?
+Asgore seems busy. His desk is full of paper stacks.]
+
+item: paper stacks|:That's a lot of paper...don't feel like reading it;
+
+
+loc: ruins
+nrOfItems: 2
+desc:
+[Sans: Never have been in these ruins before. Wonder what it looked like in the past.
+Now it's just becoming a pile of rubble.
+Tori is probably the reason why this placed hasn't collapsed yet]
+
+item: rubble|:Not the best state it has been in;
+item: ruins|:All this old writings. Wonder what it says;
+
+loc: lab
+nrOfItems: 3
+desc:
+[Sans: What a mess. Can't blame the doc, I wouldn't clean this thrash either.
+She still seems to be taking care of frisk
+I guess I can check out the camera's on the computer...what are these reports for?]
+
+item: computer|:There seems to be someone in the woods;
+item: report|:It reads that the barrier is becoming unstable?;
+item: thrash|:Alphys is having al nighters again apperently.;
+
+loc: waterfall
+nrOfItems: 3
+desc:
+[Undyne seems to be busy. Maybe Gerson is around?
+...The bridge...What is behind this rock?
+A branch? And what is this glass doing here]
+
+item: glass|:Sans: Is that smell...alcohol?;
+item: branch|:Sans: Its broken and bloody...seems like it also had quite a beating;
+item: bridge|:'You can still remember Frisk lying there, motionless...';
+
+loc: snowdin
+nrOfItems: 2
+[Sans: This place gives me the chills. All this snow.
+To bad bro didn't hear that one. I wonder if he still is home.
+The dog is running around again]
+
+item: dog|:Sans: He's playing catch by himself;
+item: snow|:Sans: How does it even snow in the underground? Maybe...ugh, not in the mood to think;
+
+loc: woods
+nrOfItems: 2
+[Sans: Seems normal. My outpost is still a mess and...cuts? 
+Looks like something ain't nature's best bud.
+What are these tracks...they are so faint]
+
+item: tracks|:Sans: Whatever made this...these tracks weren't from to long ago;
+item: outpost|:Sans: Wonder if there is a ketchup bottle somewhere here;
+item: cuts|:Sans: Seems to be from something sharp. They're quite deep;
+
+
+
+

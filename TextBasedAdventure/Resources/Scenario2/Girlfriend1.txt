@@ -1,0 +1,9 @@
+[Girlfriend:questionable=false]
+<location:table/end>
+<ending:true/end>
+<version:1/end>
+<amount:1/end>
+
+<INTRO:
+Girl: That's it! I'm done!
+/end>

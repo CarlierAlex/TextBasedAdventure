@@ -1,0 +1,8 @@
+[Doggo:questionable=false]
+<location:snowdin/end>
+<amount:1/end>
+
+<INTRO:
+Doggo: What where?!
+'Yeah...he wont be of much use'
+/end>

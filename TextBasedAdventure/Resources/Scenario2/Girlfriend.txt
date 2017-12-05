@@ -1,0 +1,36 @@
+[Girlfriend:questionable=true]
+<location:table/end>
+<amount:1/end>
+
+<INTRO:
+You: Hey dollface
+Girl: ...
+You: What?
+/end>
+
+<Q1:
+Girl: You gonna let that slip?
+-option1: yes
+-option2: no
+-option2: maybe
+/end>
+
+<Q1-1:
+You: I'm not gonna hurt him, unless you want us to get into trouble.
+Girl: I want a real man. Don't u dare come back to me without smacking him!
+Girl: Hey, tall 'n handsome! Come over here if u want a good time!
+/end>
+
+<Q1-2:
+You: Hell no, I'm gonna kick his ass right now
+Girl: That's my boy
+/end>
+
+<Q1-3G:
+You: I don't know...
+Girl: You better hurry and decide!
+/end>
+
+<OUTRO:
+You: (Am I gonna smack his ass or not?)
+/end>

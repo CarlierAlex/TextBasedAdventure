@@ -1,0 +1,36 @@
+[Jerk:questionable=true]
+<location:corner/end>
+<ending:true/end>
+<version:2/end>
+<amount:1/end>
+
+<INTRO:
+Jerk: Can't understand me?
+You:...
+/end>
+
+<Q1:
+-option1: punch
+-option2: slap
+-option3: choke
+/end>
+
+<Q1-1:
+'Punched him, KO'
+Girl: Took u long enough.
+/end>
+
+<Q1-2:
+Slapped him'
+Jerk: Ok I'm sorry!
+You: ^_^?
+/end>
+
+<Q1-3G:
+'Choked him, KO?'
+Girl: Ok, that went a bit to far.
+/end>
+
+<OUTRO:
+You: Guess what's done is done.
+/end>

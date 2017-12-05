@@ -1,0 +1,30 @@
+[Jerk:questionable=true]
+<location:table/end>
+<ending:true/end>
+<version:1/end>
+<amount:1/end>
+
+<INTRO:
+Jerk: This ain't your girl anymore!
+You:...
+/end>
+
+<Q1:
+'She's looking at you'
+-option1: punch
+-option2: leave
+/end>
+
+<Q1-1:
+'Punched him in the face'
+You: In your dreams!
+Girl: That's my boy!
+/end>
+
+<Q1-2:
+'She looks dissapointed'
+/end>
+
+<OUTRO:
+'You left the bar'
+/end>

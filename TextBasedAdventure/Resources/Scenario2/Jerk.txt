@@ -1,0 +1,8 @@
+[Jerk:questionable=false]
+<location:corner/end>
+<amount:1/end>
+
+<INTRO:
+Jerk: Get lost!
+You:...
+/end>

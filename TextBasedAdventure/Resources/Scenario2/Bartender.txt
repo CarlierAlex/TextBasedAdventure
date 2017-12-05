@@ -1,0 +1,11 @@
+[Bartender:questionable=false]
+<location:bar/end>
+<amount:1/end>
+
+<INTRO:
+Barman: What will it be?
+You: Whisky...
+Barman: I meant as in what are u gonna do next?
+Barman: Leave or punch the guy?
+You:...
+/end>

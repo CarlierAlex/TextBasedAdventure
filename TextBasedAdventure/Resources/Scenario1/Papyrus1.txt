@@ -1,0 +1,30 @@
+[Papyrus:questionable=true]
+<location:snowdin/end>
+<version:1/end>
+<amount:1/end>
+
+<INTRO:
+Papyrus: Sans! You're here.
+Sans: Ok calm down bro. Are u that glad to see me?
+/end>
+
+<Q1:
+Papyrus: Some people were attacked by some maniac.
+Sans: I know.
+Papyrus: I thought u and Frisk got caught too.
+Sans: ... Paps...
+Papyrus: Come to think of it where is Frisk.
+Sans: She's at the lab, Alphys is keeping an eye on her.
+Papyrus: U don't mean she got ... Oh no...
+-option 1: tell him to go to the lab
+/end>
+
+<Q1-1:
+Sans: Paps. I want u to go to the lab and guard her while I find out who is doing all of this.
+Papyrus: Ok. Stay safe brother.
+/end>
+
+<OUTRO:
+Papyrus: Before I forget, some people saw the assaulter run into the woods.
+Sans: Better check out the woods then.
+/end>

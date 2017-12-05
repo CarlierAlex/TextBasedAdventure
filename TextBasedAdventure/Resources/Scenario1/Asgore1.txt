@@ -1,0 +1,7 @@
+[Asgore:questionable=false]
+<location:lab/end>
+<amount:1/end>
+
+<INTRO:
+Asgore: She's very bruised isn't she
+/end>

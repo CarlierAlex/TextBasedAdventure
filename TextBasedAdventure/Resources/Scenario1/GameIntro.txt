@@ -1,0 +1,36 @@
+'It's a regular day down here in Snowdin'
+Papyrus: Sans!!! Get out your lazy butt and help me!
+Sans: Ok bro. I'll put some more backbone into it.
+Papyrus: NYEEEEEEEEEEEEH! Be serious for just one day will you!
+Sans: Chill bro. No need to look so pale at me.
+'Papyrus kicks u out of the house'
+Papyrus: Go to Undyne and ask her what to do with the balloons.
+Sans: Ok bro.
+(press enter to continue)
+/new
+
+'You teleport to Undyne's house.'
+Sans: Undyne? U here?
+Sans: She must be training at the waterfalls.
+'You teleport to the waterfalls.'
+Sans: Undyne?
+...: Sansss.....
+'You look behind u seeing someone on the bridge'
+Sans: U ok there bud...
+'It's Frisk'
+Sans: Oh my gosh! KID! What happened to u?!
+'She fainted'
+/new
+
+Sans: Alphys! Hurry!
+Alphys: What is it San... OMG FRISK!
+Sans: Get the med kit!
+Alphys: Put her on the table.
+'Some time passes. Alphys managed to hook her up to lifesupport'
+Alphys: Her vitals are stable now, put I'll still need to moniter her closely.
+Sans: Did you record anything on the camera's.
+Alphys: Let me see...No, the camera for the bridge is not even responding.
+Sans: For all the times to...
+Alphys: Any idea who could've done this.
+Sans: I'm off to the palace. I have a very good idea on who it is.
+/new

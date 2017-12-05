@@ -1,0 +1,8 @@
+[Alphys:questionable=false]
+<location:lab/end>
+<amount:1/end>
+
+<INTRO:
+'Alphys is still working on Frisk'
+Sans: Hang on kid, I'll find him.
+/end>

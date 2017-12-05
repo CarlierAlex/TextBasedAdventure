@@ -1,0 +1,8 @@
+[Papyrus:questionable=false]
+<location:lab/end>
+<version:2/end>
+<amount:1/end>
+
+<INTRO:
+Papyrus: Poor Frisk.
+/end>

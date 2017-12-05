@@ -1,0 +1,10 @@
+- end: ends the game
+- help: brings the commands up
+- go 'location': go to that location
+- talk 'someone': get into a conversation with someone, if possible
+- option 'number': select an option while in conversation
+- stop talking: stop conversation
+- inspect 'something': get description of item or something else
+- area: get a general description of this location
+- show locations: shows all possible locations
+- show people: shows all people who are present

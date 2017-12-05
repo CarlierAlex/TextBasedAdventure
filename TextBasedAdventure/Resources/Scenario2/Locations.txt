@@ -1,0 +1,24 @@
+loc: bar
+nrOfItems: 1
+desc:
+[Bartender serving drinks, empty glass...]
+
+item: glass|:Empty;
+
+
+loc: table
+nrOfItems: 1
+desc:
+[She's sitting on a chair, looking at you]
+
+item: chair|:It didn't break...yet;
+
+loc: corner
+nrOfItems: 1
+desc:
+[Dartboard, cool]
+
+item: dartboard|:No darts;
+
+
+

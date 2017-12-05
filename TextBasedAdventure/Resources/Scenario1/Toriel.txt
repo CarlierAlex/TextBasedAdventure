@@ -1,0 +1,36 @@
+[Toriel:questionable=true]
+<location:ruins/end>
+<amount:1/end>
+
+<INTRO:
+Toriel: Sans, how is Frisk?
+Sans: She's still unconsious, but out of harms way. Alphys is currently looking into the smaller wounds.
+Toriel: Oh thank god!
+Sans: We still need to find who did it. They might come back, since it sure looks like they had a grudge against her.
+Toriel: I know that some are still anxious since the barrier is still in place ... but it's Frisk we are talking about.
+Sans: It didn't stop them before we knew here.
+/end>
+
+<Q1:
+- option 1: ask about Frisk
+- option 2: comfort Toriel
+/end>
+
+<Q1-1:
+Sans: You know where she was heading?
+Toriel: She'd go to monster kid, but he called me asking if she was still coming. I tried looking for her, but didn't find her until you called.
+Sans: But his house is in Snowdin.
+Toriel: I know.
+/end>
+
+<Q1-2:
+Sans: Don't worry, the kid has been through far worse situations.
+Toriel: I know but...
+Sans: No but's, she's going tibia fine.
+Toriel: ...
+/end>
+
+<OUTRO:
+Toriel: I'm off to Alphys. Care to join?
+Sans: I'll see.
+/end>

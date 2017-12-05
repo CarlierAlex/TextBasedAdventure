@@ -1,0 +1,154 @@
+[Stranger:questionable=true]
+<location:woods/end>
+<amount:4/end>
+<ending:true/end>
+
+<INTRO:
+Sans: Lady you're in some serious trouble!
+Mother: What the hell are you? One of that brat's old friends?
+Sans: Why ask if u don't even care.
+Mother: Since you're all bones so guess she got you as well!
+'She's fell to the ground and started laughing fanatically'
+Mother: HAHAHAHAAAAA ... Just look at you. You're as dead as I am, but only literally! HAHAHHAA.
+'You feel rage building up'
+Sans: Why attack her, she didn't do anything to you!
+Mother: Cause she's my brat, I can do with het whatever I want, it's none of your business shorty!
+/end>
+
+<Q1:
+Sans: Lady ... no. You're no lady. You are a true monster.
+Mother: Coming from a walking corpse.
+'You prepare to yourself'
+Sans: It's a beautifull day outside.
+Sans: Birds are singing, flowers are blooming.
+Sans: On days like these, people like u...
+...
+Sans: SHOULD BE BURNING IN HELL!
+'She takes out a blade, hurling it towards u'
+Mother: Bring it bone boy.
+'You block the blade with a wall of bones'
+- option1: FIGHT
+- option2: ACT
+/end>
+
+<Q1-1:
+'You follow up by raising bones out of the ground, but she dodges easily'
+Mother: That's it?
+Sans: (Guess she got her skills from somewhere)
+Mother: What is it? Suprised? I'm not as weak as the brat.
+/end>
+
+<Q1-2:
+Sans: Lady I'm giving u a choice here.
+Sans: Either come with me now OR ..
+Mother: Get done in by u? Pffff don't make me laugh
+/end>
+
+<Q2:
+'She jumps towards u, picking up the blade'
+- option1: FIGHT
+- option2: ACT
+/end>
+
+<Q2-1:
+'You hold her in place with your BLUE MAGIC'
+Sans: You sure are bad at making the right choices
+Mother: What the heck...
+'You hurl her at a tree'
+Mother: Ugh..
+'She spat out blood while lying on the ground'
+Mother: Feels like getting hit by a car.
+/end>
+
+<Q2-2:
+'You block her and trap her with BLUE ATTACKS'
+Mother: Let me go weirdo!
+Sans: No can do.
+'You poor the contents of the bottle on the ground'
+Mother: You little...!
+'She breaks free and dashes towards u'
+'You step aside, making her bump into a large tree'
+Mother: Stupid...
+/end>
+
+<Q3:
+Sans: Lady, make it easy for yourself. Just give up.
+Mother: Why would I? I might as well die trying!
+Sans: U don't even have a reason to keep going on.
+Sans: A person like u just thinks about herself, don't u?
+Mother: Got a problem with that?
+- option1: FIGHT
+- option2: ACT
+/end>
+
+<Q3-1:
+Mother: Where did he go?
+'You appear behind her and grab a hold of her arm'
+Mother: What are u?!
+'You fling her into the rock wall, she spits up a lot of  blood'
+/end>
+
+<Q3-2:
+Sans: Yes ... I do. Especially since u hurt Frisk.
+Mother: Frisk this, Frisk that! Do u ever shut up about that little runt.
+Mother: Too bad the fall didn't kill her, I should've just shot her!
+Sans: You threw her down here?!
+Mother: Yeah, just not hard enough!
+/end>
+
+<Q4:
+Sans: You are really pissing me of lady! I'll give u one last warning!
+Sans: Leave or face me now!
+Mother: You rotting...
+Sans: I guess we have our answer.
+...
+???: Sans!
+'You turn around and see Frisk.
+Sans: Kid!
+Frisk: watch out!
+'Her mom is right in front of you'
+- option1: FIGHT
+- option2: MERCY
+/end>
+
+<Q4-1:
+'You summon a Gaster Blaster'
+Sans: To slow.
+Mother: Huh?
+'She turns into dust'
+Sans: Guess humans can turn to dust also.
+
+...
+
+Sans: Sorry u had to see that kid.
+Frisk: I'm just glad you're alright.
+/end>
+
+<Q4-2:
+Sans: (I can't let the kid see me like this)
+Mother: DIE!!!
+'U feel ... nothing'
+Sans: What?
+'Frisk is blocking her knife with a frying pan'
+Frisk: No u don't!
+Sans: Nice. Now to get her away from us.
+'You toss her accros the woods using BLUE MAGIC'
+Mother: I'll get you two next time!
+Sans: By that time we already shot u out of Mount Ebot.
+
+...
+
+Sans: Should've expected that, you always were a fast one.
+Frisk: This time its on the first try.
+Sans: Heh
+/end>
+
+<OUTRO:
+Sans: Let's get u pack to the doc, you're not fully healed yet
+Papyrus: Sans! Frisk!
+Sans: Hey Paps.
+Papyrus: I swear to Asgore, I will tie you 2 down someday!
+Sans: Not today.
+'You dissapeared with Frisk'
+Papyrus: NYEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEH!!!
+/end>

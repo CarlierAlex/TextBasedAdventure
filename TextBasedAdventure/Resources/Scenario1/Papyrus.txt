@@ -1,0 +1,8 @@
+[Papyrus:questionable=false]
+<location:snowdin/end>
+<amount:1/end>
+
+<INTRO:
+Papyrus: NYEEEEEEEEEEEH!
+Sans: (I'll leave bro out of it for now.)
+/end>

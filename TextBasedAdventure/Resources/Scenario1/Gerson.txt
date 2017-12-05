@@ -1,0 +1,55 @@
+[Gerson:questionable=true]
+<location:waterfall/end>
+<amount:2/end>
+
+<INTRO:
+Gerson: This gem seems...
+Sans: Hey Gramps, I see u still like to stay in your shell.
+Gerson: Ow Sans, long time no see...Is something bothering u.
+Sans: Yeah...Frisk got hurt.
+Gerson: Hmmmm
+/end>
+
+<Q1:
+'You notice that Gerson is remembering something'
+- option 1: ask about Frisk
+- option 2: ask what's on his mind
+/end>
+
+<Q1-1:
+Sans: Do u know anything about what happened.
+Gerson: Well not about Frisk, but there is tension in Snowdin.
+Sans: How so?
+Gerson: Apperently a few people encountered a stranger.
+/end>
+
+<Q1-2:
+Sans: What's on your mind Gramps?
+Gerson: Some ruffian is causing trouble in Snowdin.
+/end>
+
+<Q2:
+- option 1: ask about ruffian
+- option 2: ask about Snowdin
+/end>
+
+<Q2-1:
+Sans: Doesn't sound like someone we know.
+Gerson: Indeed. No one recognized him.
+Sans: Any cases in Hotlands or Waterfall.
+Gerson: Other than Frisk, no...
+Sans: Everyone in Snowdin knows one another so...
+Gerson: The only other explanation is if someone new is in town.
+/end>
+
+<Q2-2:
+Sans: Did anyone get seriously injured?
+Gerson: No, they were just knocked unconsious. The guy fled immedialty after.
+Sans: We need to find this dude.
+/end>
+
+
+<OUTRO:
+Gerson: Maybe check out the camera footage at the royal lab. Or ask around in Snowdin.
+Sans: Ok. Bye Gramps.
+/end>
